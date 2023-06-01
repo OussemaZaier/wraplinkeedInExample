@@ -25,4 +25,4 @@ Let's create amazing flexible layouts with Wrap!
 
 #FlutterDevelopment #UIUX #WrapWidget #FlexibleLayouts
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/med-oussema-zaier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-<color>?logo=linkedin)](https://www.linkedin.com/in/med-oussema-zaier)
